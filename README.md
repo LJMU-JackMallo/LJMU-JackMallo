@@ -11,7 +11,7 @@ Hello! 👋 I'm Jack Malone, a first-year student at Liverpool John Moores Unive
 
 ## Projects
 
-Feel free to explore my repositories for projects related to my interests and coursework.
+Feel free to explore my repositories for projects related to my interests and university work.
 
 ### Bullet Time
 
