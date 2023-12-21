@@ -25,7 +25,7 @@ to maintain a specified environment.
 
 ### Bus Tracker
 
-[Bus Tracker](...) - This project is ran on an esp-32 and displays the next bus at my local bus stop on a adafruits display.
+[Bus Tracker](...) - This project is ran on an esp-32 and displays the next bus at my local bus stop on an adafruits display.
 
 
 
