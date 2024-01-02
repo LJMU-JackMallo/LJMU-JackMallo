@@ -10,6 +10,35 @@ Hello! 👋 I'm Jack Malone, a first-year student at Liverpool John Moores Unive
 - 🌐 Interests include embedded systems and backend development.
 - 🔄 Blending extensive experience in retail/hospitality management with a dedication to forging a career in software engineering.
 
+### Skills:
+
+#### Technical Skills:
+
+- **Programming Languages:**
+  - Java
+  - C++
+  - Python
+
+- **Embedded Systems:**
+  - Raspberry Pi
+  - ESP-32
+
+- **Version Control + Project Management:**
+  - Proficient in utilizing Git and Jira for managing and tracking extra-curricular university projects.
+
+#### Soft Skills:
+
+- **Communication:**
+  - Over 5 years of experience in retail and hospitality management roles, showcasing a strong work ethic and excellent communication skills.
+  - Effective written and verbal communication, fostering productive collaboration between team members and superiors.
+
+- **Problem-Solving:**
+  - Proven ability to approach problem-solving strategically, whether in a technical or social context.
+
+- **Adaptability:**
+  - Demonstrated adaptability to changing environments and technologies.
+
+
 ## Projects
 
 Feel free to explore my repositories for projects related to my interests and university work.
