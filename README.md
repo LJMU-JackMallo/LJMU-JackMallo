@@ -29,7 +29,7 @@ uses [frame interpolation](https://github.com/LJMU-SE/frame-interpolation) techn
 
 ### Bus Tracker
 
-[Bus Tracker(Pending 2024)](...) - Operated on an ESP-32 platform, this project delivers real-time local bus schedules on an Adafruit display. Making use of the ESP-32's integrated WiFi capabilities, the system efficiently communicates with the Google Routes API for up-to-the-minute information.
+[Bus Tracker(Pending 2024)](...) - Operated on an ESP-32 platform, this project delivers real-time local bus schedules on an Adafruit display. Making use of the ESP-32's integrated WiFi capabilities, the system communicates with the Google Routes API for up-to-the-minute information.
 
 
 
