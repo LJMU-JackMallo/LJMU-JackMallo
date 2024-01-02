@@ -20,12 +20,12 @@ uses [frame interpolation](https://github.com/LJMU-SE/frame-interpolation) techn
 
 ### Cold Frame
 
-[Cold Frame](...) - The goal of this project is to build a self sustaining cold frame which utilises various sensors and an esp-32, and making changes to environment with various actuators depending on sensor readings
+[Cold Frame(Pending 2024)](...) - The goal of this project is to build a self sustaining cold frame which utilises various sensors and an esp-32, and making changes to environment with various actuators depending on sensor readings
 to maintain a specified environment.
 
 ### Bus Tracker
 
-[Bus Tracker](...) - This project is ran on an esp-32 and displays the next bus at my local bus stop on an adafruits display.
+[Bus Tracker(Pending 2024)](...) - This project is ran on an esp-32 and displays the next bus at my local bus stop on an adafruits display.
 
 
 
