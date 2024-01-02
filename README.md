@@ -30,7 +30,7 @@ Hello! 👋 I'm Jack Malone, a first-year student at Liverpool John Moores Unive
 
 - **Communication:**
   - Over 5 years of experience in retail and hospitality management roles, showcasing a strong work ethic and excellent communication skills.
-  - Effective written and verbal communication, fostering productive collaboration between team members and clear .
+  - Effective written and verbal communication, promoting collaborative teamwork and delivering clear results to superiors.
 
 - **Problem-Solving:**
   - Proven ability to approach problem-solving strategically, whether in a technical or social context.
