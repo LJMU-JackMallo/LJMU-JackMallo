@@ -24,7 +24,7 @@ Hello! 👋 I'm Jack Malone, a first-year student at Liverpool John Moores Unive
   - ESP-32
 
 - **Version Control + Project Management:**
-  - Proficient in utilizing Git and Jira for managing and tracking extra-curricular university projects.
+  - Proficient in Git and Jira for managing and tracking extra-curricular university projects.
 
 #### Soft Skills:
 
