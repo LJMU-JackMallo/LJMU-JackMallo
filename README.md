@@ -5,9 +5,10 @@ Hello! 👋 I'm Jack Malone, a first-year student at Liverpool John Moores Unive
 ## About Me
 
 - 🎓 Currently pursuing a degree in Software Engineering at LJMU.
+- 🎓 CS50 2023 Grad - https://pll.harvard.edu/course/cs50-introduction-computer-science
 - 💻 Main languages: Java, C++, and Python.
 - 🌐 Interests include embedded systems and backend development.
-- 🔄 Blending extensive experience in retail/hospitality management with a dedication to forging a path in software engineering.
+- 🔄 Blending extensive experience in retail/hospitality management with a dedication to forging a career in software engineering.
 
 ## Projects
 
