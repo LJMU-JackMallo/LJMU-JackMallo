@@ -45,10 +45,14 @@ Feel free to explore my repositories for projects related to my interests and un
 
 ## Current
 
-### Bullet Time
+### Bullet Time ( In Development )
 
 [Bullet Time Camera Project](https://github.com/LJMU-SE/btns) - This project utilises a 360 array of Raspberry Pi's which capture images to be stitched into a video and
 uses [frame interpolation](https://github.com/LJMU-SE/frame-interpolation) technology to extend fps. My main responsibilities for this project have been rapid prototyping of features and various other commits.
+
+### Esp-32 Servo Camera Mount ( In Development )
+
+[Camera Alignment](https://github.com/LJMU-SE/CAM-ESP32) - The goal for this is to aid the Bullet Time Camera project, by building ESP-32 controlled camera mounts to align the automatically align the array of cameras to a be predefined point.
 
 ## Pending
 
@@ -56,9 +60,7 @@ uses [frame interpolation](https://github.com/LJMU-SE/frame-interpolation) techn
 
 [Cold Frame(Pending 2024)](...) - This project aims to create a self-sustaining cold frame by integrating various sensors and an ESP-32 microcontroller. Through adjustments driven by sensor data, the system employs a range of actuators to uphold a predefined environment within the cold frame.
 
-### Esp-32 Servo Camera Mount
 
-[Camera Alignment](https://github.com/LJMU-SE/CAM-ESP32) - The goal for this is to aid the Bullet Time Camera project, by building ESP-32 controlled camera mounts to align the automatically align the array of cameras to a be predefined point.
 
 
 
