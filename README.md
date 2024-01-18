@@ -52,7 +52,7 @@ uses [frame interpolation](https://github.com/LJMU-SE/frame-interpolation) techn
 
 ### Esp-32 Servo Camera Mount ( In Development )
 
-[Camera Alignment](https://github.com/LJMU-SE/CAM-ESP32) - The goal for this is to aid the Bullet Time Camera project, by building ESP-32 controlled camera mounts to align the automatically align the array of cameras to a predefined center point.
+[Camera Alignment](https://github.com/LJMU-SE/CAM-ESP32) - The goal for this is to aid the Bullet Time Camera project, by building ESP-32 controlled camera mounts to automatically align the array of cameras to a predefined center point, this is used in conjuction with the [Camera Alignment API](https://github.com/LJMU-SE/Camera-Alignment-API).
 
 ## Pending
 
