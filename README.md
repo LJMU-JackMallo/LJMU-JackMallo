@@ -24,7 +24,7 @@ Hello! 👋 I'm Jack Malone, a first-year student at Liverpool John Moores Unive
   - ESP-32
 
 - **Version Control + Project Management:**
-  - Proficient in Git and Jira for managing and tracking extra-curricular university projects.
+  - Proficient in Git and Jira for managing and tracking projects.
 
 #### Soft Skills:
 
@@ -52,7 +52,7 @@ uses [frame interpolation](https://github.com/LJMU-SE/frame-interpolation) techn
 
 ### Esp-32 Servo Camera Mount ( In Development )
 
-[Camera Alignment](https://github.com/LJMU-SE/CAM-ESP32) - The goal for this is to aid the Bullet Time Camera project, by building ESP-32 controlled camera mounts to align the automatically align the array of cameras to a be predefined point.
+[Camera Alignment](https://github.com/LJMU-SE/CAM-ESP32) - The goal for this is to aid the Bullet Time Camera project, by building ESP-32 controlled camera mounts to align the automatically align the array of cameras to a predefined center point.
 
 ## Pending
 
