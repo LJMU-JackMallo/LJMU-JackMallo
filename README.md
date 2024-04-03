@@ -45,7 +45,7 @@ Feel free to explore my repositories for projects related to my interests and un
 
 ## Current
 
-### Bullet Time ( In Development )
+### Bullet Time
 
 [Bullet Time Camera Project](https://github.com/LJMU-SE/btns) - This project utilises a 360 array of Raspberry Pi's which capture images to be stitched into a video and
 uses [frame interpolation](https://github.com/LJMU-SE/frame-interpolation) technology to extend fps.
