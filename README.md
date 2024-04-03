@@ -52,7 +52,7 @@ uses [frame interpolation](https://github.com/LJMU-SE/frame-interpolation) techn
 
 ### Cold Frame
 
-[Cold Frame](...) - This project aims to create a self-sustaining cold frame by integrating various sensors and an ESP-32 microcontroller. Through adjustments driven by sensor data, the system will employ a range of actuators to uphold a predefined environment within the cold frame.
+[Cold Frame](https://github.com/LJMU-SE/Cold-Frame-Project) - This project aims to create a self-sustaining cold frame by integrating various sensors and an ESP-32 microcontroller. Through adjustments driven by sensor data, the system will employ a range of actuators to uphold a predefined environment within the cold frame.
 
 
 
