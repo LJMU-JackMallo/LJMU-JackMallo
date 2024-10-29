@@ -1,6 +1,6 @@
 # Jack Malone
 
-Hello! 👋 I'm Jack Malone, a first-year student at Liverpool John Moores University.
+Hello! 👋 I'm Jack Malone, a second-year student at Liverpool John Moores University.
 
 ## About Me
 
@@ -45,16 +45,34 @@ Feel free to explore my repositories for projects related to my interests and un
 
 ## Current
 
-### Bullet Time
+## STEPPER MOTOR MUSIC
+https://gitlab.com/JackMallo/motorious-b.o.t
+Key Skills Developed: C++, Electronic Engineering, Arduino.
 
-[Bullet Time Camera Project](https://github.com/LJMU-SE/btns) - This project utilises a 360 array of Raspberry Pi's which capture images to be stitched into a video and
-uses [frame interpolation](https://github.com/LJMU-SE/frame-interpolation) technology to extend fps.
+- Engineered a control system for stepper motors using Arduino Uno boards and a MIDI interface, allowing the
+motors to produce specific musical notes based on step frequency.
 
-### Cold Frame
+- Developed system flexibility to enable the setup to play both pre-made MIDI tracks and live inputs from a MIDI
+keyboard
 
-[Cold Frame](https://github.com/LJMU-SE/Cold-Frame-Project) - This project aims to create a self-sustaining cold frame by integrating various sensors and an ESP-32 microcontroller. Through adjustments driven by sensor data, the system will employ a range of actuators to uphold a predefined environment within the cold frame.
+## COLD FRAME MONITORING SYSTEM
+https://gitlab.com/ljmu-csm/se-l4/2324-ljmu-coldframe-embeddedproject1
+Key Skills Developed : C++, ESP-32, OOP, Electronic Engineering, Data Visualisation, Graphics.
 
+- Implemented an object-oriented design to structure the project, promoting modularity of code for sensor
+management and system control.
 
+- Developed finite state machines within objects to encapsulate sensor behaviour, enabling responsive state
+transitions based on sensor input.
 
+- Enhanced system control capabilities by incorporating a rotary encoder, facilitating smooth navigation through
+operating modes and adjustments to system settings.
 
+## BULLET TIME PHOTOBOOTH
+Key Skills Developed : Python, Technical Collaboration, Image Processing, Frame interpolation, Raspberry Pi.
+
+- Implemented frame interpolation models to enhance the smoothness of transitions between frames.
+  
+- Leveraged asynchronous programming techniques to manage concurrent requests from a client to multiple
+Raspberry Pis, facilitating synchronized image capture and reducing the risk of timing discrepancies.
 
